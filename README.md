@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sogood99
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 I live on earth.
+- 👀 I’m interested in manifold theory and discrete differential geometry
+- 🌱 I’m currently learning aforementioned interest
+- 📫 I live on something homeomeorphic to a 2-sphere
+- I'm obliged to use this emoji 😅
 
 <!---
 sogood99/sogood99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
