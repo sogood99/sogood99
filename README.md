@@ -1,5 +1,4 @@
-<img src="fig/fubuki-dance.gif" width="200" height="200" />
-
+- <img src="fig/fubuki-dance.gif" width="200" height="200" />
 - 👋 Hi, I’m @sogood99
 - 👀 I’m interested in manifold theory and discrete differential geometry
 - 🌱 I’m currently learning aforementioned interest
