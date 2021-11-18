@@ -15,10 +15,10 @@
 - 📫 I live on something with boundary homeomeorphic to a [2-sphere](https://en.wikipedia.org/wiki/Earth)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogood99&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogood99&hide=c%23&langs_count=8&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
