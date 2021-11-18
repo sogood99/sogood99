@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning aforementioned interest
 - 📫 I live on something with boundary homeomeorphic to a [2-sphere](https://en.wikipedia.org/wiki/Earth)
 
+![Sogood99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogood99)
+
 <!---
 sogood99/sogood99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
