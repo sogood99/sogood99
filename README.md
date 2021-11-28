@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236CE4F7&size=50&center=true&vCenter=true&width=500&lines=Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236CE4F7&size=50&center=true&vCenter=true&width=800&lines=A+Catcher+in+the+Rye" />
 </h1>
 
 <p align="center">
