@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @[sogood99](https://github.com/sogood99/)
 - 👀 I’m interested in [Manifold Theory](https://en.wikipedia.org/wiki/Differentiable_manifold), [Discrete Differential Geometry](https://en.wikipedia.org/wiki/Discrete_differential_geometry), and [Homotopy Type Theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 - 🌱 I’m currently learning aforementioned interest
-- 📫 I live on something with boundary homeomeorphic to a [2-sphere](https://en.wikipedia.org/wiki/Earth)
+- 📫 I live on something with boundary homeomorphic to a [2-sphere](https://en.wikipedia.org/wiki/Earth)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
