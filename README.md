@@ -15,17 +15,19 @@
 - 📫 I live on something with boundary homeomorphic to a [2-sphere](https://en.wikipedia.org/wiki/Earth)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="https://www.youtube.com/watch?v=xHlx3rx5Bew">
+    <img src="fig/komi-san.gif" width="300" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogood99&hide=c%23&langs_count=8&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=xHlx3rx5Bew">
-    <img src="fig/komi-san.gif" width="300" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 <!---
 sogood99/sogood99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
