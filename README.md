@@ -15,8 +15,8 @@
 - 📫 I live on something with boundary homeomorphic to a [2-sphere](https://en.wikipedia.org/wiki/Earth)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=xHlx3rx5Bew">
-    <img src="fig/komi-san.gif" width="300" />
+  <a href="https://www.youtube.com/watch?v=SNq4zqTN_DQ">
+    <img src="fig/anime-girl.gif" alt="Animu Girl" width="300" />
   </a>
 </p>
 
