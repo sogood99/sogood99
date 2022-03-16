@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg">
-    <img src="fig/fubuki-dance.gif" width="195" height="195" />
-  </a>
+  <img src="fig/fubuki-dance.gif" width="195" height="195" />
   <img src="https://github-readme-stats.vercel.app/api?username=sogood99" />
 </p>
 
