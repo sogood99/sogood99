@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="fig/hu-tao.gif" width="195" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sogood99" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sogood99&theme=tokyonight" />
 </p>
 
 - 👋 Hi, I’m @[sogood99](https://github.com/sogood99/)
@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogood99&hide=c%23&langs_count=8&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogood99&hide=c%23&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sogood99&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" />
 </p>
 
 <!---
